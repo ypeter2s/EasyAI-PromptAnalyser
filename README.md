@@ -1,0 +1,2 @@
+# EasyAI-PromptAnalyser
+Erasmus Projekt 
